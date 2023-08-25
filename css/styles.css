@@ -239,7 +239,7 @@ sup {
 }
 
 a {
-  color: #bf1333;
+  color: #d64933;
   text-decoration: underline;
 }
 a:hover {
@@ -3584,7 +3584,7 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #bf1333;
+  color: #d64933;
   text-decoration: underline;
 }
 .btn-link:hover {
@@ -7999,8 +7999,8 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.5) !important;
 }
 
-#pilot-hdr {
-  color: #e3dbdb !important;
+.pilot-hdr {
+  color: #d64933 !important;
 }
 
 .text-white-50 {
@@ -11610,7 +11610,7 @@ body {
 
 .get-started:hover {
   transition: 750ms;
-  background-color: #95c3f5;
+  background-color: #d64933;
   color: #eee;
   border: 1px #000 solid;
 }
@@ -11943,11 +11943,11 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 50%, rgba(0, 0, 0, 0) 100%), url("../assets/img/jet_fly_crop.jpg");
+  background: #000 /*url("../assets/img/firewall_bg\ \(2\).png");*/;
   background-position: center top;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-size: cover;
+  /* background-size: cover; */
 }
 
 /* .masthead {
@@ -12019,7 +12019,7 @@ body {
 .intro-section {
   padding-top: 10rem;
   /* background: linear-gradient(to bottom, #95c3f5 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%); */
-  background-color: #95c3f5;
+  background-color: #027bce;
 }
 
 .about-section {
@@ -12029,7 +12029,7 @@ body {
 }
 
 .team-section {
-  background-image: url("../assets/img/energy_blur.jpg");
+  background-color: #1a1e21;
   background-position: center;
   background-size: cover;
   /* filter: blur(1.25em); */
