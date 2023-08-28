@@ -11658,7 +11658,7 @@ body {
 
 @media (max-width: 768px) {
   .arrow {
-    top: 90%;
+    top: 97%;
   }
 
   .arrow span {
@@ -12007,13 +12007,13 @@ body {
     text-align: center;
     bottom: 0;
   }
-  .masthead {
+  /* .masthead {
     background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/jet_fly.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-  }
+  } */
 }
 
 .intro-section {
